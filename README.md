@@ -1,10 +1,9 @@
 # Hi, I'm Cooper Keely! :wave:
----
-Welcome to my page!
 
-I'm Cooper Keely a Computer Engineer from Seattle Washington
+### Welcome to my page!
+### I'm Cooper Keely a Computer Engineer from Seattle Washington
 
-Languages: Python, C, C++, Java, Rust
+**Languages:** Python, C, C++, Java, Rust
 
 **About Me**
 - I'm passionate about learning and growing my skills
