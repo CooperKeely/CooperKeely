@@ -5,4 +5,6 @@ title = 'Home'
 [params]
     subtitle = 'Welcome!!!'
 +++
-# Hi, I'm Cooper Keely a Computer Engineer from Seattle Washington
+## Hi, I'm Cooper Keely a Computer Engineer from Seattle Washington
+
+
