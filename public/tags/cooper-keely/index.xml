@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cooper Keely</title>
-    <link>https://example.org/tags/cooper-keely/</link>
+    <link>//localhost:1313/tags/cooper-keely/</link>
     <description>Recent content on Cooper Keely</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Mar 2025 12:46:04 -0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/cooper-keely/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cooper-keely/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making a Capacitance Meter</title>
-      <link>https://example.org/projects/capacitancemeter/</link>
+      <link>//localhost:1313/projects/capacitancemeter/</link>
       <pubDate>Wed, 05 Mar 2025 12:46:04 -0800</pubDate>
-      <guid>https://example.org/projects/capacitancemeter/</guid>
+      <guid>//localhost:1313/projects/capacitancemeter/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This project started off in a microprocessor design class, I was taking Fall of 2024.
 The final project was to design and create a capacitance meter.

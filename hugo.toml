@@ -1,4 +1,3 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Cooper Keely'
 theme = 'PaperMod'
@@ -13,3 +12,22 @@ theme = 'PaperMod'
           inline = [['\(', '\)']]
 [params]
   math = true
+
+[params.homeInfoParams]
+        Title = "Hi,"
+        Content = "I'm Cooper Keely a Computer Engineer from Seattle"
+[[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/CooperKeely"
+
+[[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/cooper-keely/"
+
+[outputs]
+        home = [ "HTML", "RSS", "JSON" ]
+
+[params.sidebar]
+        enable = true
+        content = "This is my sidebar content."
+
